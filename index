@@ -1,0 +1,192 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Restoration US1 Claude Connector - End User License Agreement</title>
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.6;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+      color: #222;
+      background: #fff;
+    }
+
+    h1, h2 {
+      color: #111;
+    }
+
+    h1 {
+      margin-bottom: 8px;
+    }
+
+    .subtitle {
+      color: #666;
+      margin-bottom: 32px;
+    }
+
+    .updated {
+      color: #777;
+      font-size: 0.95rem;
+      margin-bottom: 30px;
+    }
+
+    section {
+      margin-bottom: 28px;
+    }
+
+    footer {
+      margin-top: 50px;
+      padding-top: 20px;
+      border-top: 1px solid #ddd;
+      color: #777;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Restoration US1 Claude Connector</h1>
+  <p class="subtitle">End User License Agreement (EULA)</p>
+  <p class="updated">Last updated: August 12, 2026</p>
+
+  <section>
+    <h2>1. Purpose</h2>
+    <p>
+      Restoration US1 Claude Connector is an internal application operated on behalf
+      of Restoration US1 LLC for accounting, financial analysis, bookkeeping review,
+      reporting, and bank reconciliation purposes.
+    </p>
+  </section>
+
+  <section>
+    <h2>2. Authorized Use</h2>
+    <p>
+      Access to this application is limited to authorized personnel, contractors,
+      advisors, and service providers acting on behalf of Restoration US1 LLC.
+    </p>
+
+    <p>
+      The application may be used solely for legitimate internal business purposes
+      related to financial management, accounting analysis, transaction review,
+      reconciliation, and related administrative functions.
+    </p>
+  </section>
+
+  <section>
+    <h2>3. QuickBooks Online Access</h2>
+    <p>
+      The application may access accounting and financial information from
+      QuickBooks Online when authorized by Restoration US1 LLC through Intuit's
+      authentication and authorization process.
+    </p>
+
+    <p>
+      Such information may include accounts, transactions, invoices, payments,
+      vendors, customers, general ledger information, financial reports, and other
+      accounting data required to perform authorized financial analysis and
+      reconciliation activities.
+    </p>
+  </section>
+
+  <section>
+    <h2>4. Data Use</h2>
+    <p>
+      Data accessed through the application will be used solely for internal
+      accounting, financial analysis, bookkeeping review, reconciliation, reporting,
+      and related business purposes.
+    </p>
+
+    <p>
+      Financial information accessed through the application will not be sold,
+      licensed, or used for advertising or unrelated commercial purposes.
+    </p>
+  </section>
+
+  <section>
+    <h2>5. Confidentiality and Security</h2>
+    <p>
+      Users must maintain the confidentiality of company financial information and
+      must not disclose, distribute, copy, or use such information except as
+      authorized by Restoration US1 LLC.
+    </p>
+
+    <p>
+      Users are responsible for protecting their login credentials and access to any
+      system connected to this application.
+    </p>
+  </section>
+
+  <section>
+    <h2>6. Restrictions</h2>
+    <p>Users may not:</p>
+
+    <ul>
+      <li>Access financial information without authorization.</li>
+      <li>Use the application for unlawful or unauthorized purposes.</li>
+      <li>Disclose confidential financial information to unauthorized third parties.</li>
+      <li>Attempt to bypass security or access controls.</li>
+      <li>Use data obtained through the application for purposes unrelated to Restoration US1 LLC.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>7. No Professional Advice</h2>
+    <p>
+      Outputs generated through this application are intended to support internal
+      accounting and financial analysis. They do not constitute independent legal,
+      tax, audit, or other professional advice.
+    </p>
+
+    <p>
+      Material accounting decisions, adjustments, or changes to financial records
+      should be reviewed and approved by authorized personnel before implementation.
+    </p>
+  </section>
+
+  <section>
+    <h2>8. Availability and Changes</h2>
+    <p>
+      Restoration US1 LLC may modify, suspend, restrict, or discontinue this
+      application at any time.
+    </p>
+
+    <p>
+      This agreement may also be updated as necessary to reflect changes in the
+      application's functionality, security requirements, or applicable business
+      practices.
+    </p>
+  </section>
+
+  <section>
+    <h2>9. Termination of Access</h2>
+    <p>
+      Access to the application may be revoked at any time when a user is no longer
+      authorized to use Restoration US1 LLC systems or financial information.
+    </p>
+  </section>
+
+  <section>
+    <h2>10. Acceptance</h2>
+    <p>
+      By using Restoration US1 Claude Connector, authorized users acknowledge that
+      they have read and agree to comply with this End User License Agreement and
+      with Restoration US1 LLC's applicable confidentiality, information security,
+      and data protection requirements.
+    </p>
+  </section>
+
+  <footer>
+    <p>
+      © 2026 Restoration US1 LLC. Internal business application.
+    </p>
+  </footer>
+
+</body>
+</html>
+```
